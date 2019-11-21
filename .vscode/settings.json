@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "tslint.packageManager": "yarn",
+  "tslint.packageManager": "npm",
   "editor.codeActionsOnSave": {
     "source.fixAll.tslint": true
   }
